@@ -36,4 +36,3 @@ print("Etapa 5:", beatles)
 
 
 time.sleep(3)
-
